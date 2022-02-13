@@ -5,7 +5,6 @@
            revision="lineage-19.0" />
 
 <!-- Shared Samsung -->
-  <project name="rinando/proprietary_vendor_samsung" path="vendor/samsung" remote="rinando" />
 <!-- Overidden repositories -->
   <remove-project name="platform/system/libhidl" />
   <project name="rinando/android_system_libhidl" path="system/libhidl" remote="rinando" />
