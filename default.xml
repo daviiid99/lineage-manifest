@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <default remote name="Galaxy-J5-Unofficial-LineageOS"
+  <remote name="Galaxy-J5-Unofficial-LineageOS"
            fetch="https://github.com"
            revision="lineage-19.0" />
   
