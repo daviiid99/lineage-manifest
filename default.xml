@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="Galaxy-J5-Unofficial-LineageOS"
+  <default remote name="Galaxy-J5-Unofficial-LineageOS"
            fetch="https://github.com"
            revision="lineage-19.0" />
   <!-- Default Galaxy J5 Repos for Android 12.0 -->
